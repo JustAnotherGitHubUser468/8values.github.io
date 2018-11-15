@@ -468,3 +468,12 @@ ideologies = [
         }
     }
 ];
+       "name": "Neo-Reactionary",
+       "stats":  {
+           "econ": 10,
+           "dipl": 50
+           "govt": 0
+           "scty": 0
+        }   
+    }
+];     
